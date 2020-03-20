@@ -1,0 +1,4 @@
+/.vagrant
+aptcache
+aptcache/*
+share/server/auth/htpasswd
